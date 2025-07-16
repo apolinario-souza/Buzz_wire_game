@@ -3,9 +3,10 @@
 """
 Created on Thu Feb 13 16:28:54 2025
 
-@author: tercio
+@author: Tercio apolinario-Souza / edf.tercio@gmail.com /  https://github.com/apolinario-souza/Buzz_wire_game
 """
 
 SUJ = 1
-TEMPO_FECHAR_INICIAR_TAREFA = 5  
+TEMPO_FECHAR_INICIAR_TAREFA = 3
+
 
